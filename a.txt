@@ -1,2 +1,6 @@
 este arquivo é o a.txt
+<<<<<<< HEAD
 Clone_1_PRIMEIRO-REPO\curso-git_1
+=======
+agora vamos testar a clonagem alterando este documento
+>>>>>>> 0b4b1cd43563e620748fdd6ec73081123ca3dbfa
