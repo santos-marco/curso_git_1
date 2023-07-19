@@ -1,1 +1,2 @@
-d txt
+este arquivo é o d.txt
+Clone_1_PRIMEIRO-REPO\curso-git_1

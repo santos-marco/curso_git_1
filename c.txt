@@ -1,0 +1,2 @@
+este arquivo é o c.txt
+Clone_1_PRIMEIRO-REPO\curso-git_1

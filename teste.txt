@@ -1,1 +1,2 @@
-meu primeiro repositório
+este arquivo é o teste.txt
+Clone_1_PRIMEIRO-REPO\curso-git_1
